@@ -1,26 +1,31 @@
-## author name ##
+Made by:
   BenjiBrucker
 
-## project or program name ##
-  Portfolio Landing Page.
+Project Name:
+  Programming Language Suggester
 
-## description of program ##
-  Epicodus Independent Project #1 - Portfolio Landing Page. Shows basic implementation of HTML & CSS.
-  Basic information about BenjiBrucker.
+Description:
+  Epicodus Independent Project #2
+  A quick quiz to help you decide a programming language to learn
 
-## technologies used ##
-  HTML, CSS & Bootstrap
+Technologies used:
+  HTML, CSS, Bootstrap, JavaScript, jQuery, git, VSCode.
 
-## program setup instructions ##
-  Download.
-  Open "index.html" in a web browser. 
-  Enjoy.
+Setup instructions:
+  1. Clone or download github repo.
+  2. Navagate to "index.html" in root dir.
+  3. Open "index.html" in a web browser.
+  4. Take the quiz.
+  5. Start programming.
 
-## link to site on GitHub Pages ##
-https://github.com/benjibrucker/Programming-Language-Suggester.git
+Link to GitHub:
+  https://github.com/benjibrucker/Programming-Language-Suggester.git
 
-## copyright and license informatio ##
+Known bugs:
+  No known bugs.
+
+Copyright 
   MIT
 
-## contact ##
+Contact
   benjamin.brucker@gmail.com
