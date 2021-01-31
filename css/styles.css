@@ -1,0 +1,19 @@
+.mostLiked {
+  border: 2px dotted black;
+}
+
+.yesOrNo {
+  border: 2px dotted purple;
+}
+
+.hateDay {
+  border: 2px dotted orange;
+}
+
+.soulColor {
+  border: 2px dotted red;
+}
+
+.favoritePrime {
+  border: 2px dotted blue;
+}
