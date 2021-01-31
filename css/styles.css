@@ -1,3 +1,53 @@
 #swift, #python, #cobol {
   display: none;
 }
+
+.container {
+  padding: 10px;
+  background-color: aqua;
+  
+}
+.mostLiked {
+  border-left: 5px solid blue;
+  padding: 10px;
+  margin-bottom: 15px;
+  background-color: rgb(247, 127, 247);
+}
+
+.yesOrNo {
+  border-left: 5px solid purple;
+  margin-bottom: 15px;
+  background-color: rgb(255, 215, 141);
+}
+
+.hateDay {
+  border-left: 5px solid orange;
+  background-color: rgb(255, 160, 160);
+}
+
+.soulColor {
+  border-left: 5px solid red;
+  background-color: rgb(255, 255, 155);
+}
+
+.favoritePrime {
+  border-left: 5px solid yellow;
+  margin-bottom: 15px;
+  background-color: rgb(151, 151, 255);
+}
+
+.buttons {
+  margin-top: 30px;
+}
+
+#swift {
+  background-color: rgb(122, 228, 255);
+}
+
+#python {
+  background-color: rgb(236, 88, 255);
+}
+
+#cobol {
+  background-color: rgb(101, 255, 101)
+}
